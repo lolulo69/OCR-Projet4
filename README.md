@@ -2,7 +2,7 @@
 
 ## But du projet
 
-Ce projet a pour but l'optimisation d'un site web existant (rapidité et SEO). Essentiellement en HTML et CSS.\
+Ce projet a pour but l'optimisation d'un site web existant (rapidité, accessibilité et SEO). Essentiellement en HTML et CSS.\
 Ici vous trouverez donc une version optimisée du [site qui m'a été donné](https://github.com/lolulo69/OCR-Projet4-startingWebsite).
 
 ## Liens
